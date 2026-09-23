@@ -54,6 +54,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PHP-red"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-logo"/>
 </p>
 <h3>Front-End</h3>
 <p>
