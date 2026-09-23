@@ -190,15 +190,15 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
 </table>
 <h2>GitHub Analytics</h2>
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=VoidLance&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
 </div>
 <h3>Activity Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VoidLance&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
 </div>
 <h3>Visitor Count</h3>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsernameHere&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=VoidLance&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
 </div>
 <div align="center">
   <strong>"The best developers are those who never stop building, never stop learning, and never stop shipping."</strong>
