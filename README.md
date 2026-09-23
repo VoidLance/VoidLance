@@ -111,6 +111,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
         <li>Microsoft Azure</li>
         <li>Git Workflow</li>
         <li>VS Code</li>
+        <li>Nvim</li>
         <li>Netlify / Static Hosting</li>
         <li>GitHub Pages</li>
         <li>Cloud Security Basics</li>
@@ -125,11 +126,11 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
     <td width="50%">
       <h3>Portfolio Website</h3>
       <p>
-      A responsive personal portfolio website showcasing skills, projects, and experience — built at Level 2 of the diploma using HTML, Tailwind CSS, SASS, and JavaScript.
+      A responsive personal portfolio website showcasing skills, projects, and experience — built at Level 2 of the diploma using HTML, React.js, Tailwind CSS, SASS, and JavaScript.
       </p>
       <b>Stack:</b> HTML · Tailwind CSS · SASS · JavaScript
       <br/>
-      <a href="#">View Project →</a>
+      <a href="https://github.com/VoidLance/Portfolio-Website">View Project →</a>
     </td>
     <td width="50%">
       <h3>React.js Web Application</h3>
@@ -138,7 +139,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
       </p>
       <b>Stack:</b> HTML · Tailwind CSS · JavaScript · React.js
       <br/>
-      <a href="#">View Project →</a>
+      <a href="https://github.com/VoidLance/React/tree/main/movie-review-app">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -149,7 +150,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
       </p>
       <b>Stack:</b> HTML · JavaScript · Canvas API
       <br/>
-      <a href="#">Play Game →</a>
+      <a href="https://portfolio-website-psi-beryl-43.vercel.app/Games/DungeonCrawler/index.html">Play Game →</a>
     </td>
     <td>
       <h3>Python & SQL Data App</h3>
@@ -158,7 +159,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
       </p>
       <b>Stack:</b> Python · SQL · GitHub
       <br/>
-      <a href="#">View Project →</a>
+      <a href="https://github.com/VoidLance/course-files-sql-python-integration">View Project →</a>
     </td>
   </tr>
 </table>
