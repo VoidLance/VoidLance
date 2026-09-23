@@ -7,7 +7,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
 </div>
 <div align="center">
-<a href="https://alistairsweeting.online">
+<a href="https://portfolio-website-psi-beryl-43.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/alistair-sweeting-959453165/">
