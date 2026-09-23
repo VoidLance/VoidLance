@@ -10,7 +10,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="YourLinkedInProfileHere">
+<a href="[YourLinkedInProfileHere](https://www.linkedin.com/in/alistair-sweeting-959453165/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:YourEmailHere">
