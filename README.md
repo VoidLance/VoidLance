@@ -41,7 +41,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="Image Address Here" alt="Profile photo" width="200" style="border-radius: 50%;"/>
+      <img src="[Image Address Here](https://avatars.githubusercontent.com/u/16591758?s=400&u=ba984babce5b4f846f49b2a0a3912072da2cd029&v=4)" alt="Profile photo" width="200" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>
