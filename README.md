@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Hi, I'm Your Name Here!</h1>
+<h1>Hi, I'm Alistair, also known as VoidLance!</h1>
 <h3>Full-Stack Developer &nbsp;•&nbsp; Front-End Developer &nbsp;•&nbsp; Back-End Developer &nbsp;•&nbsp; Cloud Developer</h3>
 <p>
-Building web applications from front to back — HTML, CSS, JavaScript, React, Python, SQL, and Cloud.
+Building web applications and games from front to back — HTML, CSS, JavaScript, React, Python, SQL, PHP, C++, and Cloud.
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
 </div>
@@ -28,8 +28,9 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
     <h3>My primary interests include:</h3>
     <ul>
       <li>Front-End Development (HTML, CSS, JavaScript, React.js)</li>
-      <li>Back-End Development (Python, SQL, Node.js)</li>
+      <li>Back-End Development (Python, SQL, Node.js, PHP)</li>
       <li>Cloud Computing (AWS, Microsoft Azure)</li>
+      <li>Games Design (Unreal, Godot, RPG Maker, PhaserJS)</li>
       <li>Version Control (Git & GitHub)</li>
       <li>Responsive & Accessible Web Design</li>
       <li>Database Design & Management</li>
