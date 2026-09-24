@@ -148,9 +148,9 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
       <p>
       A 2D browser game using the Canvas API — featuring character control, animation, collision detection, sound, and interactive objects.
       </p>
-      <b>Stack:</b> HTML · JavaScript · Canvas API
+      <b>Stack:</b> HTML · JavaScript · Canvas API · React · Tailwind · PhaserJS 
       <br/>
-      <a href="https://portfolio-website-psi-beryl-43.vercel.app/Games/DungeonCrawler/index.html">Play Game →</a>
+      <a href="https://pocket-relic-run.vercel.app/">Play Game →</a>
     </td>
     <td>
       <h3>Python & SQL Data App</h3>
