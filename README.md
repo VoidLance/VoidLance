@@ -139,7 +139,7 @@ Building web applications and games from front to back — HTML, CSS, JavaScript
       </p>
       <b>Stack:</b> HTML · Tailwind CSS · JavaScript · React.js
       <br/>
-      <a href="https://github.com/VoidLance/React/tree/main/movie-review-app">View Project →</a>
+      <a href="https://course-files-javascript-react-movie-review-a5a1qw14c-voidlance.vercel.app/">View Project →</a>
     </td>
   </tr>
   <tr>
